@@ -11,18 +11,14 @@
 #Exercise 1
 
 def add(n1, n2)
-  #write a block of code to return the sum 
-  #of 2 numbers then delete these comments
-  n1 + n2
+
 end
 
-#Exercise 2
+Exercise 2
 
-# def subtract(n1, n2)
-#     n1  n2 #fix me!!
-#   #fix the block of code to return the difference 
-#   #of 2 numbers then delete these comments
-# end
+def subtract(n1, n2)
+    n1 - n2 
+end
 
 #Exercise 3
 
