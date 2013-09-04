@@ -13,11 +13,11 @@ class MergeConflicts
   end
 
   def add
-    
+    n3 + n4
   end
 
   def subtract
-    
+    puts "I don't know maths!"
   end
 
   def multiply
